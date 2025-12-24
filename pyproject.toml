@@ -1,8 +1,8 @@
 [project]
-name = "w2_scanner"
+name = "w2-scanner"
 version = "0.1.0"
 description = "A Python tool for scanning and processing W2 tax forms"
-readme = "README.md"
+readme = {file = "README.md", content-type = "text/markdown"}
 requires-python = ">=3.11"
 license = {text = "MIT"}
 authors = [
